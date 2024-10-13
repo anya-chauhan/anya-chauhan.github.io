@@ -16,22 +16,22 @@ Sept 2022 - Current
 <br> Fall 2022 Courses: Intro to Python/Data Science, Multivariable Calculus, Physics Mechanics, Microeconomics
 
 
-<h4>Mission College (Dual Enrollment High School)</h4>
-Summer 2021 - Fall 2021
+<h4>West Valley College (Dual Enrollment High School)</h4>
+Summer 2024 - Present
 
-> Courses: Linear Algebra (audit), Discrete Mathematics, 
+> Courses: Linear Algebra, Discrete Mathematics, 
 <br> Differential Equations
 
 <h4>Los Gatos High School</h4>
-Aug 2018 - June 2022
+Aug 2022 - Present
 
-> AP Courses: Computer Science, Statistics, Calculus BC, Biology, Chemistry,
-<br> Physics 1, Physics C Mechanics, European History, Government and Politics, Language and Composition, Literature and Composition
+> AP Courses: Computer Science, Calculus BC, Biology, Chemistry,
+<br> Physics 1, European History, United States History, Language and Composition
 <br> ( scored 5/5 on all associated AP tests )
 
 > GPA: 4.0
-<br> Weighted GPA: 4.63 
-<br> Other activities: Varsity Tennis, Robotics, Orchestra
+<br> Weighted GPA: 4.83 
+<br> Other activities: Varsity Tennis, Yearbook
  
 > Independent Study
 <br> <a href = "https://www.coursera.org/specializations/genomic-data-science">Genomic Data Science Specialization </a> ( Courses 1, 6, & 7 )
