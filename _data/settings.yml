@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Disha Chauhan
+  site_title: Anya Chauhan
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -14,7 +14,7 @@ menu_settings:
       url: '/resume'
     
 footer_settings:
-  footer_tagline: Disha Chauhan, STEM Enthusiast
+  footer_tagline: Anya Chauhan, Aspiring Computational Biologist
 
 hero_settings:
   overlay_opacity: 0.8
