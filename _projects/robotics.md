@@ -1,3 +1,4 @@
+<!--
 ---
 title: 'Competitive Robotics'
 subtitle: '2019 Regional Finalists in the FIRST Robotics Competition'
@@ -46,4 +47,5 @@ Member of Los Gatos High School's Award-Winning Robotics Team: <a href ="http://
 
 
 ---
+-->
 
