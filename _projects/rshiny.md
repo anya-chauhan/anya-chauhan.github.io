@@ -1,3 +1,4 @@
+<!--
 ---
 title: 'Orchestrating sMAP: An Intelligent Microarray Analysis Platform'
 subtitle: 'Steering Project Management and Backend Development in Summer 2021'
@@ -49,5 +50,6 @@ featured_image: '/images/bio3.png'
 
 
 ---
+-->
 
 
