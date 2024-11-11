@@ -1,3 +1,4 @@
+<!--
 ---
 title: 'Engineering and Design Summer Program'
 subtitle: 'John Hopkins Center for Talented Youth - A Foray into Practical Engineering'
@@ -30,6 +31,7 @@ featured_image: '/images/cty1.png'
 
 
 ---
+-->
 
 
 
