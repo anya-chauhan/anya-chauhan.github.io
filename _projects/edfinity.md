@@ -1,11 +1,11 @@
 ---
-title: 'Innovating Educational Technology through Data-Driven Curriculum Development'
-subtitle: 'Data Analytics and Content Development Intern at Edfinity - April 2021 to October 2021'
-date: 2019-03-30 00:00:00
-description: Pioneering Data-Driven Approaches for the Advancement of College-Level Math and Computer Science Curricula
-featured_image: '/images/shutterstock_317431127.jpg'
+title: Exploring AI-Generated Cardiac MRI Data for Machine Learning  
+subtitle: Harvard Undergraduate OpenBio Laboratory  
+date: 2024-06-01 09:00:00 -0400  
+description: Investigated the use of synthetic cardiac MRI data to address issues of data scarcity and patient privacy. Evaluated the performance of machine learning models trained exclusively on AI-generated data for real-world application.  
+featured_image: /images/openbio_lab.png  
 ---
-
+<!--
 <br>
 <b>Role:</b> Paid Intern at Edfinity, an ed-tech initiative with backing from the National Science Foundation (NSF).
 <hr>
@@ -32,4 +32,4 @@ featured_image: '/images/shutterstock_317431127.jpg'
 </div>
 
 ---
-
+-->
