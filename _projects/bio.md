@@ -1,11 +1,12 @@
 ---
-title: 'Leveraging Bioinformatics for Advanced Transcriptomics Analysis'
-subtitle: 'The Bioinformatics Academy + Virtual Internship'
-date: 2018-06-30 00:00:00
-description: Transforming Transcriptomics Data Analysis with Cutting-Edge Bioconductor R Packages — A Journey from Meticulous Quality Control to In-Depth Functional Analysis
-featured_image: '/images/ba-1.PNG'
+title: Developing a GNN Model for Alzheimer’s Disease Research  
+subtitle: Internship at Harvard Medical School / Mass General Hospital  
+date: 2024-06-01 09:00:00 -0400  
+description: Working on ALZ-PINNACLE, a graph neural network model that integrates protein, cell-type, and tissue data within a unified latent space. Focus on pre-training the model on extensive protein interaction data and investigating APOE’s role in Alzheimer’s.  
+featured_image: /images/harvard_internship.png  
 ---
 
+<!--
 ![](/images/bioinformatics-p.png)
 
 <h4>Transformative Approaches in Bioinformatics: Mastering Transcriptomics from Quality Control to Functional Analysis</h4>
@@ -56,4 +57,4 @@ featured_image: '/images/ba-1.PNG'
 
 
 ---
-
+-->
