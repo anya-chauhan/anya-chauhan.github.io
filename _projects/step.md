@@ -1,3 +1,4 @@
+<!--
 ---
 title: 'Advancing Educational Paradigms through Data Analytics'
 subtitle: Research Intern in MIT''s STEP Lab - Summer 2023 to Present
@@ -32,4 +33,4 @@ featured_image: '/images/investigative-research-960.jpg'
 <br><br> <b>Continued Involvement:</b> Eagerly extending my research contributions into the fall, with a particular focus on quantitative data analysis for our upcoming paper on place-based learning.
 
 ---
-
+-->
