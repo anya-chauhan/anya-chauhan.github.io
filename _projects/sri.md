@@ -3,7 +3,7 @@ title: Exploring AI-Generated Cardiac MRI Data for Machine Learning
 subtitle: Harvard Undergraduate OpenBio Laboratory  
 date: 2024-06-01 09:00:00 -0400  
 description: Investigated the use of synthetic cardiac MRI data to address issues of data scarcity and patient privacy. Evaluated the performance of machine learning models trained exclusively on AI-generated data for real-world application.  
-featured_image: /images/openbio_lab.png  
+featured_image: /images/sri_1.png  
 ---
 <!--
 <br>
