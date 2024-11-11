@@ -21,16 +21,16 @@ featured_image: /images/sri_1.png
 <h6> Technical Skills </h6>
 > <b>Curriculum Platforms:</b> Mastery over LaTeX, Canvas, Gradescope, Edfinity, and Itempool.
 <br><br> <b>Academic Specialization:</b> Profound knowledge in college-level math and computer science courses including College Algebra, Intermediate Algebra, Precalculus, Trigonometry, Calculus 1, and Calculus 2.
+-->
 
 ---
 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/s2.png">
-	<img src="/images/s1.png">
-	<img src="/images/s3.png">
+	<img src="/images/sri_1.png">
+	<img src="/images/sri_2.png">
 </div>
 
 ---
--->
+
 
