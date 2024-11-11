@@ -1,4 +1,3 @@
-
 ---
 title: Exploring AI-Generated Cardiac MRI Data for Machine Learning  
 subtitle: Harvard Undergraduate OpenBio Laboratory  
