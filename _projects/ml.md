@@ -1,3 +1,4 @@
+<!--
 ---
 title: 'Recommendation & Classification Systems Through Natural Language Processing'
 subtitle: 'Independent Project'
@@ -31,4 +32,4 @@ featured_image: '/images/ml2.png'
 <br><br> <b>Deployment:</b> Developed a user-friendly web application utilizing StreamLit..
 
 ---
-
+-->
