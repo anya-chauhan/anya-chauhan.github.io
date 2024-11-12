@@ -1,6 +1,6 @@
 ---
 title: Education. &nbsp; Experience. &nbsp; Achievements  
-subtitle: Details   
+subtitle:   
 featured_image: /images/resume3.jpg  
 ---
 
