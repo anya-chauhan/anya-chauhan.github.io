@@ -113,17 +113,14 @@ Student lead at STEMaway, a virtual-internship platform preparing students for t
 <br>
 
 ## 🤝 **Volunteering / Extracurriculars**
-- **Varsity Tennis** - 2024, 2023, 2022
 
+- **Varsity Tennis** - 2024, 2023, 2022
 - **MathCounts Mentor for Local Middle School** – 2024, 2023, 2022  
   Mentored middle school students in MathCounts, helping them build problem-solving skills and prepare for competitions.
-
 - **Club President, Adults Towards Independent Living** – 2024  
   Led efforts to support adults with critical spinal injuries, promoting independent living and community support.
-
 - **Vice President, Science Communications Club** – 2024  
   Supported science communication initiatives and engaged in outreach to raise awareness of scientific topics.
-
 - **Mock Trial** - 2024
   Prosecution pre-trial attorney. 
 
