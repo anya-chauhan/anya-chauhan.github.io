@@ -65,7 +65,7 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 
 ### Student Researcher, Harvard Undergraduate OpenBio Laboratory
 **Duration:** June 2024 - August 2024
-<br>Explored the use of AI-generated cardiac MRI data to train machine learning models. This work addressed issues of data scarcity and patient privacy, evaluating whether models trained exclusively on synthetic data could still perform well on real-world datasets.
+<br>Explored the use of AI-generated cardiac MRI data to train machine learning models. Work addressed issues of data scarcity and patient privacy, evaluating whether models trained exclusively on synthetic data could still perform well on real-world datasets.
 
 <br>
 
