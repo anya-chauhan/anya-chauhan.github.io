@@ -59,7 +59,7 @@ featured_image: /images/resume3.jpg
 
 ### Intern, Harvard Medical School / Mass General Hospital
 **Duration:** June 2024 - Present (Summer Stipend for 3 Months)  
-<br>Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tissue data within a unified latent space. Tasks included pre-training the model on extensive protein interaction data and investigating the role of APOE, a major genetic risk factor for Alzheimer’s.
+Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tissue data within a unified latent space. Tasks included pre-training the model on extensive protein interaction data and investigating the role of APOE, a major genetic risk factor for Alzheimer’s.
 
 <br>
 
