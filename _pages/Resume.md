@@ -13,25 +13,30 @@ featured_image: /images/resume3.jpg
 | **University of California Scout Program**| 4.0                | August 2021 - August 2024  |
 
 
-### 📝**Test Scores**
+### 📝 **Test Scores**
 - **SAT**: 1580
 - **AP Calculus BC** - 5
 - **AP European History** - 5
 - **AP Computer Science A** - 5
 
-### 📜**MITx Certificates**
+### 📄 **Publications**
+- **“Multi-Scale Graph Neural Network for Alzheimer’s Disease”** - ML4H Symposium, 2024
+- **“Recruiting Digital Patients: The Effectiveness of Training Models on AI-Generated Cardiac MRI Data”** - The Young Researcher, 2024
+
+### 📜 **MITx Certificates**
 - **Introduction to Computational Thinking and Data Science**
 - **Introduction to Computer Science and Programming Using Python**
     
-### 📚**Coursework Highlights**
+### 📚 **Coursework Highlights**
 #### Los Gatos High School
    - **Junior Year**: AP Biology, AP Chemistry, AP Language, AP U.S. History, French IV Honors, Yearbook
    - **Sophomore Year**: AP Calculus BC, AP European History, English 10 Honors, French III, Yearbook
    - **Freshman Year**: Biology Honors, Trigonometry/Precalculus Honors, English 9 Honors, French II, Journalism
 
-#### Evergreen /West Valley Community College, 
+#### Evergreen /West Valley Community College 
 - **Junior Year**: Discrete Mathematics
-- **Sophomore Summer**: Linear Algebra, Differential Equations, Introduction to Ethics
+- **Sophomore Summer**: Linear Algebra, Differential Equations
+- **Freshman Summer**: Introduction to Ethics
 
 #### University of California Scout Program
 - **Sophomore Summer**: AP Physics 1
@@ -40,6 +45,7 @@ featured_image: /images/resume3.jpg
 <br>
 
 ---
+
 <br>
 
 ## 🛠️ Projects & Internships
@@ -96,4 +102,22 @@ Student lead at STEMaway, a virtual-internship platform preparing students for t
 
 
 ---
+
+<br>
+
+## 🤝 **Volunteering / Extracurriculars**
+
+-**Varsity Tennis** - 2024, 2023, 2022
+
+- **MathCounts Mentor for Local Middle School** – 2024, 2023, 2022  
+  Mentored middle school students in MathCounts, helping them build problem-solving skills and prepare for competitions.
+
+- **Club President, Adults Towards Independent Living** – 2024  
+  Led efforts to support adults with critical spinal injuries, promoting independent living and community support.
+
+- **Vice President, Science Communications Club** – 2024  
+  Supported science communication initiatives and engaged in outreach to raise awareness of scientific topics.
+
+- **Mock Trial** - 2024
+  Prosecution pre-trial attorney. 
 
