@@ -106,7 +106,6 @@ Student lead at STEMaway, a virtual-internship platform preparing students for t
 <br>
 
 ## 🤝 **Volunteering / Extracurriculars**
-
 -**Varsity Tennis** - 2024, 2023, 2022
 
 - **MathCounts Mentor for Local Middle School** – 2024, 2023, 2022  
