@@ -120,7 +120,7 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 - **Club President, Adults Towards Independent Living** – 2024  
   Led efforts to support adults with critical spinal injuries, promoting independent living and community support.
 - **Vice President, Science Communications Club** – 2024  
-  Supported science communication initiatives and engaged in outreach to raise awareness of scientific topics.
+  Helped organize science outreach events for elementary students and coordinated guest speaker sessions for high schoolers
 - **Mock Trial** - 2024
   Prosecution pre-trial attorney. 
 
