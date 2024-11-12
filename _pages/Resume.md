@@ -12,19 +12,18 @@ featured_image: /images/resume3.jpg
 | **Dual Enrollment: Community College**  | 4.0         | June 2023 - Present   |
 | **University of California Scout Program**| 4.0                | August 2021 - August 2024  |
 
-<br>
 
-### **Test Scores**
+### 📝**Test Scores**
 - **SAT**: 1580
 - **AP Calculus BC** - 5
 - **AP European History** - 5
 - **AP Computer Science A** - 5
 
-### **MITx Certificates**
+### 📜**MITx Certificates**
 - **Introduction to Computational Thinking and Data Science**
 - **Introduction to Computer Science and Programming Using Python**
     
-### **Coursework Highlights**
+### 📚**Coursework Highlights**
 #### Los Gatos High School
    - **Junior Year**: AP Biology, AP Chemistry, AP Language, AP U.S. History, French IV Honors, Yearbook
    - **Sophomore Year**: AP Calculus BC, AP European History, English 10 Honors, French III, Yearbook
