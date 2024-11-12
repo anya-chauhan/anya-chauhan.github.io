@@ -12,6 +12,7 @@ featured_image: /images/resume3.jpg
 | **Dual Enrollment: Community College**  | 4.0         | June 2023 - Present   |
 | **University of California Scout Program**| 4.0                | August 2021 - August 2024  |
 
+<br>
 
 ### 📝 **Test Scores**
 - **SAT**: 1580
@@ -19,14 +20,20 @@ featured_image: /images/resume3.jpg
 - **AP European History** - 5
 - **AP Computer Science A** - 5
 
+<br>
+
 ### 📄 **Publications**
 - **“Multi-Scale Graph Neural Network for Alzheimer’s Disease”** - ML4H Symposium, 2024
 - **“Recruiting Digital Patients: The Effectiveness of Training Models on AI-Generated Cardiac MRI Data”** - The Young Researcher, 2024
 
+<br>
+
 ### 📜 **MITx Certificates**
 - **Introduction to Computational Thinking and Data Science**
 - **Introduction to Computer Science and Programming Using Python**
-    
+
+<br>
+
 ### 📚 **Coursework Highlights**
 #### Los Gatos High School
    - **Junior Year**: AP Biology, AP Chemistry, AP Language, AP U.S. History, French IV Honors, Yearbook
