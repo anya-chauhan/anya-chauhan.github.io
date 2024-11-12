@@ -6,82 +6,97 @@ featured_image: /images/resume3.jpg
 
 ## 🎓 Education
 
-### Los Gatos High School, CA
-**GPA:** 4.0 &nbsp;•&nbsp; **Weighted GPA:** 4.63  
-**Duration:** August 2022 - Present
+| School Name                               | GPA                  | Duration                   |
+|-------------------------------------------|----------------------|----------------------------|
+| **Los Gatos High School**             | 4.0 <br> (4.63 Weighted) | August 2022 - Present      |
+| **Dual Enrollment: Community College**  | 4.0         | June 2023 - Present   |
+| **University of California Scout Program**| 4.0                | August 2021 - August 2024  |
 
-- **Junior Year Courses:** AP Biology, AP Chemistry, AP Language, AP U.S. History, French IV Honors, Yearbook
-- **Sophomore Year Courses:** AP Calculus BC, AP European History, English 10 Honors, French III, Yearbook
-- **Freshman Year Courses:** Biology Honors, Trigonometry/Precalculus Honors, English 9 Honors, French II, Journalism
+<br>
 
-### Evergreen College, CA (Dual Enrollment)
-**Duration:** September 2024 - Present
+### SAT Score
+- **SAT**: 1580
 
-- **Course:** Discrete Mathematics
+### AP Courses
+- **AP Calculus BC** - 5
+- **AP European History** - 5
+- **AP Computer Science A** - 5
 
-### West Valley College, CA (Dual Enrollment)
-**Duration:** June 2023 - August 2024
+### MITx Certificates
+- **Introduction to Computational Thinking and Data Science**
+- **Introduction to Computer Science and Programming Using Python**
+    
+### Coursework Highlights
+#### Los Gatos High School
+   - **Junior Year**: AP Biology, AP Chemistry, AP Language, AP U.S. History, French IV Honors, Yearbook
+   - **Sophomore Year**: AP Calculus BC, AP European History, English 10 Honors, French III, Yearbook
+   - **Freshman Year**: Biology Honors, Trigonometry/Precalculus Honors, English 9 Honors, French II, Journalism
 
-- **Courses:** Linear Algebra, Differential Equations, Introduction to Ethics
+#### Evergreen /West Valley Community College, 
+- **Junior Year**: Discrete Mathematics
+- **Sophomore Summer**: Linear Algebra, Differential Equations, Introduction to Ethics
 
-### University of California Scout Program
-**Duration:** August 2021 - August 2024
-
-- **Courses:** AP Physics 1 (Sophomore Summer), AP Computer Science A (Middle School)
+#### University of California Scout Program
+- **Sophomore Summer**: AP Physics 1
+- **Middle School**: AP Computer Science A 
 
 <br>
 
 ---
+<br>
 
 ## 🛠️ Projects & Internships
 
 ### Intern, Harvard Medical School / Mass General Hospital
 **Duration:** June 2024 - Present (Summer Stipend for 3 Months)  
-**Project:** ALZ-PINNACLE
+Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tissue data within a unified latent space. Tasks included pre-training the model on extensive protein interaction data and investigating the role of APOE, a major genetic risk factor for Alzheimer’s.
 
-- Developed a GNN model for Alzheimer’s research integrating protein, cell-type, and tissue data.
-- Focused on pre-training on protein interaction data.
-- Investigated APOE’s role in Alzheimer’s disease.
+<br>
 
 ### Student Researcher, Harvard Undergraduate OpenBio Laboratory
 **Duration:** June 2024 - August 2024
+Explored the use of AI-generated cardiac MRI data to train machine learning models. Work addressed issues of data scarcity and patient privacy, evaluating whether models trained exclusively on synthetic data could still perform well on real-world datasets.
 
-- Explored AI-generated cardiac MRI data for machine learning models.
-- Evaluated model performance on synthetic data.
-- Addressed privacy and data scarcity issues.
+<br>
 
 ### Student Researcher, Harvard Medical School / Mass General Hospital
 **Duration:** February 2024 - June 2024
+Developed an R Shiny app for interactive visualization of an Alzheimer’s knowledge graph.
 
-- Developed an R Shiny app for interactive visualization of an Alzheimer’s knowledge graph.
-
-### ML Intern / Project Management Lead, STEM-Away
-**Duration:** Summer 2023
-
-- Co-led the development of a Medium article recommender system for AI coding assistant articles.
-- Managed project logistics and timelines.
-- Contributed to backend code development.
+<br>
 
 ### AFS Global STEM Accelerator
 **Duration:** Fall 2023
+Designed an R Shiny app to make AI education accessible and engaging by transforming global challenges into interactive data science tutorials. 
 
-- Created an R Shiny app transforming global challenges into interactive AI and data science tutorials.
-- Enhanced learning accessibility through innovative solutions.
+<br>
+
+### ML Intern / Project Management Lead, STEM-Away
+**Duration:** Summer 2023
+Student lead at STEMaway, a virtual-internship platform preparing students for tech careers. Co-led the development of a recommender system for Medium articles on AI coding assistants.
 
 <br>
 
 ---
 
-## 🏆 Achievements
+<br>
 
-- **Captain of Varsity Tennis Team** (2024)
-- **International Research Olympiad Semi-Finalist** (2024)
-- **NCWIT Aspirations in Computing Award – Bay Area Honorable Mention** (2024)
-- **AFS Global STEM Accelerator Achievement** (2023)
-- **National Cyber Scholar, CyberStart America** (2023)
-- **STEM-Away Leadership Award** (2023)
-- **Santa Clara Valley Athletic League All-League Award** (2023)
-- **Mathematics Department Award** (2021)
+## 🏆 **Achievements**
+
+### 2024
+- **Captain of Varsity Tennis Team**
+- **International Research Olympiad** – Semi-Finalist
+- **NCWIT Aspirations in Computing Award** – Bay Area Honorable Mention
+
+### 2023
+- **AFS Global STEM Accelerator Achievement**
+- **National Cyber Scholar** – CyberStart America
+- **STEM-Away Leadership Award**
+- **Santa Clara Valley Athletic League All-League Award**
+
+### 2021
+- **Mathematics Department Award**
+
 
 ---
 
