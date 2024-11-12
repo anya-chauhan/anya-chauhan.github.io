@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'R&eacute;sum&eacute;'
+    - title: 'Resume;'
       url: '/resume'
     
 footer_settings:
