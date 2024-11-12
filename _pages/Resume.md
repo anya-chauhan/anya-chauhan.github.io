@@ -59,31 +59,31 @@ featured_image: /images/resume3.jpg
 
 ### Intern, Harvard Medical School / Mass General Hospital
 **Duration:** June 2024 - Present (Summer Stipend for 3 Months)  
-Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tissue data within a unified latent space. Tasks included pre-training the model on extensive protein interaction data and investigating the role of APOE, a major genetic risk factor for Alzheimer’s.
+<br>Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tissue data within a unified latent space. Tasks included pre-training the model on extensive protein interaction data and investigating the role of APOE, a major genetic risk factor for Alzheimer’s.
 
 <br>
 
 ### Student Researcher, Harvard Undergraduate OpenBio Laboratory
 **Duration:** June 2024 - August 2024
-Explored the use of AI-generated cardiac MRI data to train machine learning models. Work addressed issues of data scarcity and patient privacy, evaluating whether models trained exclusively on synthetic data could still perform well on real-world datasets.
+<br>Explored the use of AI-generated cardiac MRI data to train machine learning models. This work addressed issues of data scarcity and patient privacy, evaluating whether models trained exclusively on synthetic data could still perform well on real-world datasets.
 
 <br>
 
 ### Student Researcher, Harvard Medical School / Mass General Hospital
 **Duration:** February 2024 - June 2024
-Developed an R Shiny app for interactive visualization of an Alzheimer’s knowledge graph.
+<br>Developed an R Shiny app for interactive visualization of an Alzheimer’s knowledge graph.
 
 <br>
 
 ### AFS Global STEM Accelerator
 **Duration:** Fall 2023
-Designed an R Shiny app to make AI education accessible and engaging by transforming global challenges into interactive data science tutorials. 
+<br>Designed an R Shiny app to make AI education accessible and engaging by transforming global challenges into interactive data science tutorials. 
 
 <br>
 
 ### ML Intern / Project Management Lead, STEM-Away
 **Duration:** Summer 2023
-Student lead at STEMaway, a virtual-internship platform preparing students for tech careers. Co-led the development of a recommender system for Medium articles on AI coding assistants.
+<br>Student lead at STEMaway, a virtual-internship platform preparing students for tech careers. Co-led the development of a recommender system for Medium articles on AI coding assistants.
 
 <br>
 
