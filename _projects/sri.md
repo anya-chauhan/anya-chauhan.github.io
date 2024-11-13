@@ -38,9 +38,7 @@ featured_image: /images/sri_1.png
 
 <br>
 
-<blockquote>
 <p style="color: #666;">This research, conducted under mentorship at SRI (Harvard Undergraduate OpenBio Laboratory's Student Research Institute), demonstrates the potential of synthetic data in advancing medical AI while protecting patient privacy. The project not only yielded promising technical results but also provided valuable insights into model interpretability and the balance between complexity and performance in medical AI applications.</p>
-</blockquote>
 
 
 <p><em>This was more than just a technical milestone; it was my first chance to see AI interact with real-world medical challenges.</em></p>
