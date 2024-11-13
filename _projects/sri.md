@@ -7,15 +7,43 @@ description: Explored the use of AI-generated cardiac MRI data to train machine 
 featured_image: /images/sri_1.png  
 ---
 
-<p>From exploring AI in recommender systems to taking a plunge into healthcare, my journey into AI has been both exhilarating and eye-opening. Step 4 of my journey brought me into uncharted territory: using AI for real-world medical applications.</p>
+<h3>Objective</h3>
+<blockquote>
+<p style="color: #666;">Investigated whether AI models trained exclusively on synthetic cardiac MRI data could effectively predict clinical metrics when tested on real patient data, addressing crucial challenges of data privacy and accessibility in medical AI development.</p>
+</blockquote>
+
+<br>
+
+<h3>Model Details</h3>
+<blockquote>
+<p style="color: #666;">
+- Used a modified ResNet50 architecture trained on AI-generated cardiac MRI images<br>
+- Implemented comprehensive data augmentation pipeline including rotations, contrast adjustments, and controlled blur effects<br>
+- Utilized Grad-CAM visualization to verify model's focus on clinically relevant cardiac features<br>
+- Developed custom application for precise labeling of synthetic images
+</p>
+</blockquote>
+
+<br>
+
+<h3>Findings</h3>
+<blockquote>
+<p style="color: #666;">
+- Model achieved high performance on synthetic data (MSE = 0.0015, r² = 0.9452)<br>
+- Maintained strong performance on real MRI images (MSE = 0.0089, r² = 0.6860)<br>
+- Accuracy comparable to inter-physician variability, demonstrating clinical potential<br>
+- Results published in <em>The Young Researcher</em>
+</p>
+</blockquote>
+
+<br>
+
+<blockquote>
+<p style="color: #666;">This research, conducted under mentorship at SRI (Harvard Undergraduate OpenBio Laboratory's Student Research Institute), demonstrates the potential of synthetic data in advancing medical AI while protecting patient privacy. The project not only yielded promising technical results but also provided valuable insights into model interpretability and the balance between complexity and performance in medical AI applications.</p>
+</blockquote>
+
 
 <p><em>This was more than just a technical milestone; it was my first chance to see AI interact with real-world medical challenges.</em></p>
-
-<p>Guided by an amazing mentor at SRI (, I found new layers to AI that I hadn't encountered before. This experience taught me that complexity doesn't always mean improvement, how metrics can sometimes deceive, and the importance of tools like Grad-CAM to understand what our models <em>see</em>.</p>
-
-<p>This project opened the door to my first major research study, titled "<em>Recruiting Digital Patients: The Effectiveness of Training Models on AI-Generated Cardiac MRI Data</em>," with the abstract published in <em>The Young Researcher</em>.</p>
-
->The Student Research Institute (SRI) by the Harvard Undergraduate OpenBio Laboratory is a virtual summer program to increase access to research for high school students in the natural and physical sciences.
 
 <br>
 
