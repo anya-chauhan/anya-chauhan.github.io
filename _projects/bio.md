@@ -6,55 +6,55 @@ description: Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-
 featured_image: /images/massg.jpg 
 ---
 
-<!--
-![](/images/bioinformatics-p.png)
+<br>
+<h2>Objective</h2>
+<blockquote>
+<p>Developed a novel multi-scale graph neural network model (ALZ-PINNACLE) to bridge molecular, cellular, and tissue-level insights in Alzheimer's disease research by integrating and analyzing complex brain omics data across the aging to AD continuum.</p>
+</blockquote>
+<br>
 
-<h4>Transformative Approaches in Bioinformatics: Mastering Transcriptomics from Quality Control to Functional Analysis</h4>
+<h2>Model Details</h2>
+<blockquote>
+<p style="color: #666;">
+- Built on PINNACLE framework with adaptations for AD-specific data<br>
+- Integrated 14,951 proteins and 206,850 protein interactions<br>
+- Incorporated 7 cell types and 48 cell subtypes/states<br>
+- Implemented protein-protein and cell-type interaction networks<br>
+- Developed custom protein-to-cell-type attention mechanism<br>
+- Pre-trained on self-supervised link prediction tasks<br>
+- Fine-tuned using AD GWAS data (78 positive, 65 negative samples)
+</p>
+</blockquote>
+<br>
 
-<em>"This challenging project offered me a profound immersion into the realm of Bioinformatics, specifically tailored to DNA microarray data analysis. Capitalizing on this experience, I have experimented with pipeline variations, thereby deepening my understanding of this field. To democratize access to this valuable knowledge, I founded 'The Bioinformatics Academy,' an online platform designed to incrementally build computational proficiencies until students can execute a complete bioinformatics pipeline."</em>
+<h2>Results</h2>
+<blockquote>
+<p style="color: #666;">
+- Identified astrocyte, endothelial, and neuronal subclusters as most predictive of APOE's role in AD<br>
+- Outperformed baseline models in multiple metrics:<br>
+&nbsp;&nbsp;• 70.83% better AP@5 vs Random Walk<br>
+&nbsp;&nbsp;• 72.92% better AUPRC vs Random Walk<br>
+&nbsp;&nbsp;• 77.08% better Recall@5 vs Random Walk<br>
+- Demonstrated superior performance compared to BIONIC:<br>
+&nbsp;&nbsp;• 60.42% better AP@5<br>
+&nbsp;&nbsp;• 50.00% better AUPRC<br>
+- Successfully validated model's ability to capture cell-type specific contexts in AD
+</p>
+</blockquote>
+<br>
 
-> <b> The Bioinformatics Academy: </b> 
-<br> Fall 2020 - Winter 2021
-<br> Launched a pioneering introductory course aimed at dismantling barriers to computational sciences, particularly for underrepresented groups. <a href="https://beginnerbioinformatics.com/courses/the-pipeline/lessons/top-table-visualizations">Access a sample module from the online workshop here</a>. The course has gained traction across six educational institutions in the U.S. and India.
-
-<hr>
-  
-<h6> Key Achievements </h6>
-> <b>Career Foundations:</b> Cemented foundational skills in applying big-data analytics to spur innovation in combating formidable diseases like Alzheimer's and cancer.
-<br><br> <b>Public Speaker:</b> Distinguished as a featured presenter at the STEMaway Showcase event, a congregation of top-performing high school students. (See video below).
-<br><br> <b>Community Contributions:</b> Leveraged acquired expertise to host workshops demystifying Bioinformatics and Data Science to high school students.
-
-<h6> Core Competencies </h6>
-> Team Collaboration, Technical Presentations, Scientific Literature Analysis, Self-Evaluation, Time & Task Management, Problem-Solving
-
-<h6> Technical Proficiency </h6>
-> <b>Bioconductor R Packages and GEO Database:</b> <br>Quality Control ( RLE boxplots, NUSE boxplots ) <br>Data visualization ( PCA, Heatmaps, Volcano plots )
-<br>DGE Analysis ( Annotation, Gene filtering, Limma Analysis, Volcano plots ) <br>Functional Analysis ( GO, KEGG, STRING database )
-
-<h6> Tools and Software </h6>
-> GitHub, R Studio, Asana, GSuite
-
-<h6> Project Specifics </h6>
-> <b>Data Collection:</b> Acquired datasets <a href = "https://www.ncbi.nlm.nih.gov/geo/geo2r/?acc=GSE18105"> GSE18105 </a>, <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE21510"> GSE21510 </a> from the GEO Database to emulate findings from this scientific publication: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7228005/"> Construction and Analysis of a ceRNA Network Reveals Potential Prognostic Markers in Colorectal Cancer</a>
-<br><br> <b>Data Analytics:</b> Employed Bioconductor packages for data normalization and outlier removal.
-<br><br> <b>Statistical Methodologies:</b> Conducted differential gene expression analysis through rigorous statistical methods.
-<br><br> <b>Functional Analysis:</b> Identified statistically significant gene-to-disease correlations, spotlighting potential prognostic markers for colorectal cancer.
+<p style="color: #666;"><em>This research represents a significant step forward in understanding Alzheimer's disease mechanisms through advanced machine learning techniques. The project demonstrates the power of multi-scale modeling in capturing complex biological relationships across molecular, cellular, and tissue levels. The developed framework provides a foundation for future therapeutic target discovery and longitudinal disease progression studies. This project bridges the gap between molecular mechanisms and cellular communications in Alzheimer's disease, offering new insights into disease progression and potential therapeutic targets.</em></p>
+<br>
 
 ---
-
 <div class="gallery" data-columns="1">
-	<img src="/images/sa-certificate.png">
-	<img src="/images/ba-1.PNG">
-	<img src="/images/ba-2.PNG">
-	<img src="/images/ba-3.PNG">
+	<img src="/images/Fig1.png">
+	<img src="/images/Fig2.png">
 </div>
 
-
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IMycrHaGAe8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
----
--->
+
