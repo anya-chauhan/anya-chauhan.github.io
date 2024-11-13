@@ -51,8 +51,12 @@ featured_image: /images/sri_1.png
 
 <div class="gallery" data-columns="1">
 	<img src="/images/sri_1.png">
-	<img src="/images/sri_2.png">
+	<img src="/images/sri_3.png">
+	<img src="/images/sri_4.png">
 </div>
+
+<p><em>Figure 1. Key Stages in Developing an AI Model for Sphericity Index Prediction from Cardiac MRI Data
+(A) Data Preparation: Used both AI-generated and real cardiac MRI images. The AI-generated images had manually calculated SI values; real MRI images had physician-computed SI values. This provided diverse training data and reliable ground truth. (B) Model Training: Trained a ResNet50 to predict left ventricle SI as highlighted by Grad-CAM visualizations. The figure shows the labeled SI value (0.587) and the computed SI value (0.592). (C) Model Performance: Evaluated on AI-generated images (MSE=0.0015, r² = 0.9452) and real MRI images (MSE= 0.0089, r² = 0.6860). Accuracy on real data is comparable to inter-physician variability, suggesting clinical potential.</em></p>
 
 ---
 
