@@ -7,14 +7,16 @@ description: Explored the use of AI-generated cardiac MRI data to train machine 
 featured_image: /images/sri_1.png  
 ---
 
-<h3>Objective</h3>
+<br>
+
+<h2>Objective</h2>
 <blockquote>
 <p style="color: #666;">Investigated whether AI models trained exclusively on synthetic cardiac MRI data could effectively predict clinical metrics when tested on real patient data, addressing crucial challenges of data privacy and accessibility in medical AI development.</p>
 </blockquote>
 
 <br>
 
-<h3>Model Details</h3>
+<h2>Model Details</h2>
 <blockquote>
 <p style="color: #666;">
 - Used a modified ResNet50 architecture trained on AI-generated cardiac MRI images<br>
@@ -26,7 +28,7 @@ featured_image: /images/sri_1.png
 
 <br>
 
-<h3>Findings</h3>
+<h2>Findings</h2>
 <blockquote>
 <p style="color: #666;">
 - Model achieved high performance on synthetic data (MSE = 0.0015, r² = 0.9452)<br>
