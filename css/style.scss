@@ -122,7 +122,43 @@ $footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
 $overlay-opacity: {{ site.data.settings.hero_settings.overlay_opacity }};
 $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
+// Project layout styles
+.project-section {
+  margin: 2rem 0;
+}
 
+.project-heading {
+  color: $accent-color;
+  border-bottom: 2px solid $accent-color;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.project-content {
+  background: $background-alt-color;
+  padding: 1rem;
+  border-left: 4px solid $accent-color;
+  margin-bottom: 0.5rem;
+}
+
+.project-list-item {
+  background: $background-alt-color;
+  padding: 0.75rem;
+  border-left: 4px solid $accent-color;
+  margin-bottom: 0.5rem;
+  &:before {
+    content: "✦ ";
+  }
+}
+
+.project-summary {
+  background: $background-alt-color;
+  padding: 1rem;
+  border: 1px solid $border-color;
+  border-radius: 0.5rem;
+  font-style: italic;
+  margin-top: 2rem;
+}
 
 // - - - - - - - - - - Global styles
 
