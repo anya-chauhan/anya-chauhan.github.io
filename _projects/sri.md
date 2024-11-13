@@ -52,7 +52,6 @@ featured_image: /images/sri_1.png
 <div class="gallery" data-columns="1">
 	<img src="/images/sri_1.png">
 	<img src="/images/sri_3.png">
-	<img src="/images/sri_4.png">
 </div>
 
 <p><em>Figure 1. Key Stages in Developing an AI Model for Sphericity Index Prediction from Cardiac MRI Data
