@@ -43,7 +43,7 @@ featured_image: /images/massg.jpg
 </blockquote>
 <br>
 
-<p style="color: #666;"><em>This research represents a significant step forward in understanding Alzheimer's disease mechanisms through advanced machine learning techniques. The project demonstrates the power of multi-scale modeling in capturing complex biological relationships across molecular, cellular, and tissue levels. The developed framework provides a foundation for future therapeutic target discovery and longitudinal disease progression studies. This project bridges the gap between molecular mechanisms and cellular communications in Alzheimer's disease, offering new insights into disease progression and potential therapeutic targets.</em></p>
+<p style="color: #666;"><em>This research represents a significant step forward in understanding Alzheimer's disease mechanisms through advanced machine learning techniques. The project demonstrates the power of multi-scale modeling in capturing complex biological relationships across molecular, cellular, and tissue levels. The developed framework provides a foundation for future therapeutic target discovery and longitudinal disease progression studies. </em></p>
 <br>
 
 ---
