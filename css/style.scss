@@ -122,37 +122,6 @@ $footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
 $overlay-opacity: {{ site.data.settings.hero_settings.overlay_opacity }};
 $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
-// Project section styling
-blockquote {
-  border-left: 4px solid $accent-color;
-  padding: 15px 20px;
-  margin: 20px 0;
-  background-color: $background-alt-color;
-  p {
-    color: $text-medium-color;
-    margin: 0;
-    line-height: 1.8;
-  }
-}
-
-// Add spacing between list items in blockquotes
-blockquote p {
-  .list-item {
-    margin-bottom: 15px;
-    &:last-child {
-      margin-bottom: 0;
-    }
-  }
-}
-
-// Make headings stand out more
-h3 {
-  color: $text-dark-color;
-  margin-top: 40px;
-  margin-bottom: 20px;
-  font-weight: $bold-weight;
-}
-
 // - - - - - - - - - - Global styles
 
 @import "_basic";
