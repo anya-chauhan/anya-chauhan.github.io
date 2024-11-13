@@ -6,7 +6,18 @@ description: Explored the use of AI-generated cardiac MRI data to train machine 
   
 featured_image: /images/sri_1.png  
 ---
- <h2 style="font-size: 24px; text-align: center; margin-bottom: 2rem;">Recruiting Digital Patients: The Effectiveness of Training Models on AI Generated Cardiac MRI Data</h2>
+
+<p>From exploring AI in recommender systems to taking a plunge into healthcare, my journey into AI has been both exhilarating and eye-opening. Step 4 of my journey brought me into uncharted territory: using AI for real-world medical applications.</p>
+
+<p><em>This was more than just a technical milestone; it was my first chance to see AI interact with real-world medical challenges.</em></p>
+
+<p>Guided by an amazing mentor at SRI (, I found new layers to AI that I hadn't encountered before. This experience taught me that complexity doesn't always mean improvement, how metrics can sometimes deceive, and the importance of tools like Grad-CAM to understand what our models <em>see</em>.</p>
+
+<p>This project opened the door to my first major research study, titled "<em>Recruiting Digital Patients: The Effectiveness of Training Models on AI-Generated Cardiac MRI Data</em>," with the abstract published in <em>The Young Researcher</em>.</p>
+
+>The Student Research Institute (SRI) by the Harvard Undergraduate OpenBio Laboratory is a virtual summer program to increase access to research for high school students in the natural and physical sciences.
+
+<br>
 
 ---
 
