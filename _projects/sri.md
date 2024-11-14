@@ -44,7 +44,7 @@ featured_image: /images/sri_1.png
 <p style="color: #666;"> - <strong>Clinical Relevance:</strong> Results suggest that models trained on synthetic data can provide predictions within the range of expert human performance, significantly reducing the gap between synthetic training conditions and real-world clinical scenarios. 
 </p> 
 <p style="color: #666;"> 
-- <strong>Published Findings:</strong> An abstract of the research findings was published in <em>The Young Researcher</em>. </p> 
+- <strong>Published Findings:</strong> An abstract of the research findings was published in <em>The Young Researcher, Sept 2024</em>. </p> 
 </blockquote> 
 
 <br> 
