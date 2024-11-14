@@ -33,7 +33,28 @@ featured_image: /images/sri_1.png
 
 <br> 
 
-<h2>Key Achievements</h2> <blockquote> <p style="color: #666;"> - <strong>High Performance on Synthetic Data:</strong> Achieved exceptional predictive performance with a Mean Squared Error (MSE) of 0.0015 and a Pearson's correlation coefficient (r²) of 0.9452 when evaluated on a synthetic test set. </p> <p style="color: #666;"> - <strong>Strong Generalization to Real Data:</strong> Maintained robust accuracy on real cardiac MRI images, achieving an MSE of 0.0089 and an r² of 0.6860. The model’s performance on real data was found to be comparable to the variability observed between different physician measurements, demonstrating its clinical applicability. </p> <p style="color: #666;"> - <strong>Clinical Relevance:</strong> Results suggest that models trained on synthetic data can provide predictions within the range of expert human performance, significantly reducing the gap between synthetic training conditions and real-world clinical scenarios. </p> <p style="color: #666;"> - <strong>Published Findings:</strong> The research findings were peer-reviewed and published in <em>The Young Researcher</em>, highlighting the academic and scientific contributions of this work. </p> </blockquote> <br> <h2>Significance</h2> <blockquote> <p style="color: #666;"> This research, conducted under the mentorship at the SRI (Harvard Undergraduate OpenBio Laboratory's Student Research Institute), demonstrates the feasibility of using synthetic data to train AI models for clinical tasks while preserving patient privacy. By successfully predicting clinically relevant metrics from real patient data using a model trained solely on AI-generated images, this project addresses key challenges in data scarcity and data sharing in medical AI. Not only did it showcase the technical merits of synthetic data usage, but it also contributed valuable insights into how machine learning can be responsibly integrated into real-world medical diagnostics. </p> </blockquote>
+<h2>Key Achievements</h2> 
+<blockquote> 
+<p style="color: #666;"> 
+- <strong>High Performance on Synthetic Data:</strong> Achieved exceptional predictive performance with a Mean Squared Error (MSE) of 0.0015 and a Pearson's correlation coefficient (r²) of 0.9452 when evaluated on a synthetic test set. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Strong Generalization to Real Data:</strong> Maintained robust accuracy on real cardiac MRI images, achieving an MSE of 0.0089 and an r² of 0.6860. The model’s performance on real data was found to be comparable to the variability observed between different physician measurements, demonstrating its clinical applicability. 
+</p> 
+<p style="color: #666;"> - <strong>Clinical Relevance:</strong> Results suggest that models trained on synthetic data can provide predictions within the range of expert human performance, significantly reducing the gap between synthetic training conditions and real-world clinical scenarios. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Published Findings:</strong> The research findings were peer-reviewed and published in <em>The Young Researcher</em>, highlighting the academic and scientific contributions of this work. </p> 
+</blockquote> 
+
+<br> 
+
+<h2>Significance</h2> 
+<blockquote> 
+<p style="color: #666;"> This research, conducted under the mentorship at the SRI (Harvard Undergraduate OpenBio Laboratory's Student Research Institute), demonstrates the feasibility of using synthetic data to train AI models for clinical tasks while preserving patient privacy. By successfully predicting clinically relevant metrics from real patient data using a model trained solely on AI-generated images, this project addresses key challenges in data scarcity and data sharing in medical AI. Not only did it showcase the technical merits of synthetic data usage, but it also contributed valuable insights into how machine learning can be responsibly integrated into real-world medical diagnostics. 
+</p> 
+</blockquote>
+
 <br>
 
 ---
