@@ -6,45 +6,58 @@ description: Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-
 featured_image: /images/massg.jpg 
 ---
 
-<br>
-<h2>Objective</h2>
-<blockquote>
-<p>Developed a novel multi-scale graph neural network model (ALZ-PINNACLE) to bridge molecular, cellular, and tissue-level insights in Alzheimer's disease research by integrating and analyzing complex brain omics data across the aging to AD continuum.</p>
-</blockquote>
+<br> 
+<h2>Objective</h2> 
+<blockquote> 
+<p style="color: #666;"> Developed a multi-scale Graph Neural Network (ALZ-PINNACLE) to integrate and analyze complex brain omics data across the aging to Alzheimer’s Disease (AD) continuum. This model aimed to learn meaningful, context-aware embeddings for proteins and cell types to better understand AD neurobiology, focusing on data privacy and accessibility in medical research. 
+</p> 
+</blockquote> 
+
+<br> 
+
+<h2>Model Details</h2> 
+<blockquote> 
+<p style="color: #666;"> 
+- <strong>Architecture:</strong> Adapted from the PINNACLE framework, ALZ-PINNACLE is a multi-scale GNN that integrates data on protein-protein interactions and cell-type relationships. It learns unified embeddings that capture cell-type-specific protein interactions and contexts relevant to AD. </p> 
+<p style="color: #666;"> 
+- <strong>Data Integration:</strong> Utilized single-nucleus RNA-Sequencing data and known protein-protein interactions from various sources, spanning 14,951 proteins, 206,850 interactions, 7 cell types, and 48 cell subtypes/states. This integrated dataset captures the complex cellular and molecular landscape of AD. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Training Framework:</strong> ALZ-PINNACLE was pre-trained using a self-supervised link prediction task on cell-type-specific protein interaction networks. The model initially masked a subset of edges and learned to predict both true and false edges, and was then fine-tuned using AD Genome-Wide Association Study (GWAS) data to predict AD risk genes. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Contextual Learning:</strong> The model employs cell-type identity and graph connectivity to develop context-aware embeddings. This allows ALZ-PINNACLE to learn how proteins interact and function differently across distinct cellular contexts, essential for understanding complex diseases like AD. 
+</p> 
+</blockquote> 
+
+<br> 
+
+<h2>Pre-Training & Fine-Tuning Results</h2> 
+<blockquote> 
+<p style="color: #666;"> 
+- <strong>Pre-Training Performance:</strong> Achieved robust performance in link prediction tasks on held-out sets of protein-protein interactions and cell-type graphs. Metrics such as area under the ROC curve (AUROC) and average precision (AP) indicated that ALZ-PINNACLE effectively learned context-aware embeddings during pre-training. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Protein Embedding Similarities:</strong> The model captured cell-type-specific roles of proteins, evidenced by the learned embeddings of APOE (a major AD risk gene). APOE showed high embedding similarity in microglia, neuronal, and CD8+ T cells, highlighting its consistent functional role across these cell types. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Fine-Tuning on AD Risk Genes:</strong> The model was fine-tuned using a set of known AD risk genes and negative controls from AD GWAS data. ALZ-PINNACLE accurately identified and predicted the likelihood of gene associations with AD across different cell contexts, achieving high average precision and AUROC in distinguishing AD risk genes. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Context-Specific Predictive Power:</strong> ALZ-PINNACLE determined the most predictive cell-type contexts for AD gene roles. For example, it identified that astrocyte, endothelial, and neuronal subclusters were crucial for predicting APOE's role in AD, illustrating how the model can pinpoint specific cellular contexts relevant to disease pathology. 
+</p> 
+</blockquote> 
+
+<br> 
+
+<h2>Significance</h2> 
+<blockquote> 
+<p style="color: #666;"> ALZ-PINNACLE demonstrates the potential of using multi-scale, context-aware graph neural networks to integrate complex biomedical data, enabling better understanding of AD neurobiology. By pre-training on protein and cell interaction networks and fine-tuning on AD risk gene data, the model provides valuable insights into how molecular and cellular interactions contribute to AD, advancing knowledge of disease mechanisms and informing potential therapeutic strategies. 
+</p> 
+</blockquote> 
+
 <br>
 
-<h2>Model Details</h2>
-<blockquote>
-<p style="color: #666;">
-- Built on PINNACLE framework with adaptations for AD-specific data<br>
-- Integrated 14,951 proteins and 206,850 protein interactions<br>
-- Incorporated 7 cell types and 48 cell subtypes/states<br>
-- Implemented protein-protein and cell-type interaction networks<br>
-- Developed custom protein-to-cell-type attention mechanism<br>
-- Pre-trained on self-supervised link prediction tasks<br>
-- Fine-tuned using AD GWAS data (78 positive, 65 negative samples)
-</p>
-</blockquote>
-<br>
-
-<h2>Results</h2>
-<blockquote>
-<p style="color: #666;">
-- Identified astrocyte, endothelial, and neuronal subclusters as most predictive of APOE's role in AD<br>
-- Outperformed baseline models in multiple metrics:<br>
-&nbsp;&nbsp;• 70.83% better AP@5 vs Random Walk<br>
-&nbsp;&nbsp;• 72.92% better AUPRC vs Random Walk<br>
-&nbsp;&nbsp;• 77.08% better Recall@5 vs Random Walk<br>
-- Demonstrated superior performance compared to BIONIC:<br>
-&nbsp;&nbsp;• 60.42% better AP@5<br>
-&nbsp;&nbsp;• 50.00% better AUPRC<br>
-- Successfully validated model's ability to capture cell-type specific contexts in AD
-</p>
-</blockquote>
-<br>
-
-<p style="color: #666;"><em>This research represents a significant step forward in understanding Alzheimer's disease mechanisms through advanced machine learning techniques. The project demonstrates the power of multi-scale modeling in capturing complex biological relationships across molecular, cellular, and tissue levels. The developed framework provides a foundation for future therapeutic target discovery and longitudinal disease progression studies. </em></p>
-<br>
 
 ---
 <div class="gallery" data-columns="1">
