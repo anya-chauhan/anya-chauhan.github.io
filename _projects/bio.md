@@ -54,6 +54,8 @@ featured_image: /images/massg.jpg
 <blockquote> 
 <p style="color: #666;"> 
 - <strong>Publication:</strong> Accepted paper at ML4H 2024, highlighting the recognition and contribution of ALZ-PINNACLE in the field of machine learning for health.
+</p> 
+</blockquote> 
 
  <br>
  
