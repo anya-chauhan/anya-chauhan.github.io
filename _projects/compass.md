@@ -1,9 +1,9 @@
 ---
 title: 'AI Learning Compass'
-subtitle: 'An interactive GPT-powered R Shiny App'
+subtitle: 'Independent Project'
 date: 2024-06-30 00:00:00
-description: AI Learning Compass combines dynamic knowledge graphs with GPT-powered content generation to create an intuitive, personalized learning experience for exploring artificial intelligence concepts. The platform visualizes complex AI topics through an interactive map while providing real-time, customized content based on user interests and expertise levels.
-featured_image: '/images/app.png'
+description: AI Learning Compass combines dynamic knowledge graphs with GPT-powered content generation to create an intuitive, personalized learning experience for exploring artificial intelligence concepts. The R Shiny app visualizes complex AI topics through an interactive map while providing real-time, customized content based on user interests and expertise levels.
+featured_image: '/images/app.PNG'
 ---
 
 <!--
