@@ -3,7 +3,7 @@ title: 'clAIre: Bridging Global Issues and Technology Through Interactive Learni
 subtitle: 'afs.org & Unniversity of Pennsylvania'
 date: 2018-05-30 00:00:00
 description: clAIre is an educational platform that transforms complex data science and machine learning concepts into accessible, interactive learning experiences. Through its pilot module ClimateDuo, users explore climate change data while learning practical coding and analysis skills in R and Python.
-featured_image: '/images/claire1.png'
+featured_image: '/images/claire1.PNG'
 ---
 
 # Project Overview
@@ -98,18 +98,12 @@ The platform has shown success in:
 
 
 <div class="gallery" data-columns="1">
-	<img src="/images/claire1.png">
-	<img src="/images/claire2.png">
-	<img src="/images/r2.jpg">
+	<img src="/images/claire1.PNG">
+	<img src="/images/claire2.PNG">
 </div>
 
 
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pdRBp6AnNCw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
----
--->
 
