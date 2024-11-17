@@ -1,35 +1,71 @@
-<!--
 ---
-title: 'Recommendation & Classification Systems Through Natural Language Processing'
-subtitle: 'Independent Project'
-date: 2018-02-30 00:00:00
-description: Pioneering machine learning methodologies to innovate recommendation and classification algorithms, enriched by Natural Language Processing technologies.
+title: 'Emerging Horizons in Coding: A Multifaceted Investigation into AI Code Assistants'
+subtitle: 'STEM-Away Virtual-Internship'
+date: 2023-02-30 00:00:00
+description: A comprehensive machine learning project focused on building a sophisticated recommender system for AI code assistant-related content. The system combines advanced NLP techniques with web scraping to deliver personalized article recommendations from Medium, laying the groundwork for a multi-platform content discovery tool.
 featured_image: '/images/ml2.png'
 ---
 
-<h4>NLP-Driven Recommendation and Classification Algorithms</h4>
-<em>"Embarking on a comprehensive machine learning journey, this project reflects my end-to-end knowledge—from initial data collection to model training and deployment. With a keen focus on state-of-the-art technologies like Google's Bidirectional Representation for Transformers (BERT), this undertaking exemplifies my commitment to staying ahead of the technological curve."</em>
+# Project Overview
+As Project Management Lead and member of the Machine Learning subteam, I developed an intelligent recommendation system for AI code assistant-related content. The project combined web scraping, natural language processing, and recommendation algorithms to create a sophisticated content discovery tool, starting with Medium articles as our initial data source.
 
-<hr>
-  
-<h6> Key Achievements </h6>
-> <b>Holistic Project Execution:</b> Demonstrated full-stack capabilities in machine learning, encompassing every phase from data procurement to model deployment.
-<br><br> 
-<b>Technological Acumen:</b> Hands-on experience with industry-leading algorithms like BERT, fortifying the project's classification and recommendation systems.
+## Key Features
+- **Dual Recommendation Methods**: Implemented both Word2Vec and BERT embeddings with cosine similarity for comparative analysis
+- **Smart Data Collection**: Developed custom web scraping solutions for Medium articles
+- **Intelligent Preprocessing**: Created an aggressive common word removal system to enhance recommendation quality
+- **Validation Metrics**: Implemented computed columns for recommendation validation including vector magnitude and similarity scores
+- **Project Infrastructure**: Established Airtable-based project management system and Softr website
 
-<h6> Core Competencies </h6>
-> Research Acumen, Effective Time & Task Management, Problem-Solving, Self-Driven Approach
+## Technical Implementation
+### Data Collection & Processing
+- Built Python-based web scraper to gather article data including titles, subtitles, summaries, and metadata
+- Implemented robust preprocessing pipeline with tokenization and advanced common word filtering
+- Developed adaptive threshold system for common word removal (refined from 30% to 10% occurrence)
 
-<h6>Technical Proficiency </h6>
-> <b>Machine Learning Algorithms:</b> <br> Recommender Systems <br> Classification Systems <br> TF-IDF <br> BERT
-<h6> Industry Tools & Software </h6>
-> Google Colab, Anaconda, StreamLit, GitHub
+### Recommendation Engine
+- Integrated dual embedding approaches:
+  - Word2Vec embeddings with cosine similarity
+  - BERT embeddings with cosine similarity
+- Implemented validation metrics:
+  - Vector magnitude calculation
+  - Average similarity scoring
+  - Highly similar article counting
+  - Similarity matrix visualization
 
-<h6> Project Specifics </h6>
-> <b>Data Harvesting: </b> Leveraged Beautiful Soup and Selenium to acquire targeted data from DiscourseHub Community forums.
-<br><br> <b>Exploratory Data Analysis:</b> Utilized TF-IDF for feature extraction and leveraged BERT to mitigate its limitations, thereby improving classification and recommendation capabilities.
-<br><br> <b>Algorithmic Innovation:</b> Implemented TF-IDF to obtain features in the form of vectorized matrix. Used BERT to overcome the shortcomings of TF-IDF in classifying an unlabelled post.
-<br><br> <b>Deployment:</b> Developed a user-friendly web application utilizing StreamLit..
+### Project Management
+- Set up comprehensive Airtable-based tracking system
+- Developed Softr site for team collaboration
+- Coordinated machine learning subteam efforts
 
----
--->
+## Challenges Overcome
+- Adapted to dynamic website structure changes during scraping
+- Refined recommendation algorithms to reduce over-similarity in results
+- Balanced multiple project responsibilities while maintaining quality
+- Developed novel validation approaches for recommendation quality
+
+## Results & Impact
+- Successfully created a robust recommendation system capable of suggesting relevant AI code assistant content
+- Established foundation for multi-platform content integration
+- Developed scalable infrastructure for future expansion
+- Created visualization tools for similarity analysis
+
+## Future Development
+The project lays groundwork for:
+- Integration with Tableau-based Dashboard
+- Chatbot implementation
+- Expansion to multiple content platforms
+- Enhanced user testing and feedback systems
+
+## Technologies Used
+- Python for web scraping and data processing
+- Word2Vec and BERT for text embeddings
+- Cosine similarity for recommendation generation
+- Airtable for project management
+- Softr for team collaboration
+- Visualization tools for similarity analysis
+
+## Code Repository
+- Web Scraper: [GitHub - Medium Articles Scraper](https://github.com/anya-chauhan/bytemasters/blob/main/medium_articles_scraper.py)
+- Recommender System: [GitHub - Recommender Notebook](https://github.com/anya-chauhan/bytemasters/blob/main/recommender.ipynb)
+
+
