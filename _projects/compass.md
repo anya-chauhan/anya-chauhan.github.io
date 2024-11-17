@@ -6,27 +6,53 @@ description: AI Learning Compass combines dynamic knowledge graphs with GPT-powe
 featured_image: '/images/app.PNG'
 ---
 
-<!--
-<h4> Unlocking the Essentials of Engineering Through Real-World Applications </h4>
-<br>
-<em>"My initiation into the STEM field took place through this transformative three-week residential <a href="https://cty.jhu.edu/programs/on-campus/courses/investigations-in-engineering-ienh"> summer program </a> at the University of California, Santa Cruz. The program immersed me in foundational engineering theories, which were immediately put to the test in tangible projects such as constructing bridges, designing roller coasters, and building hydraulic robots within set limitations. This experience catalyzed my passion for solving complex problems through engineering paradigms."</em>
-<hr>
-  
-<h6> Key Milestones </h6>
-> <b> Distinguished Scholar: </b>Achieved recognition as a JHU Center for Talented Youth (CTY) Advanced SET Scholar with Grand Honors. <br><br> <b> Award-Winning Performance: </b> Triumphed in the Hydraulic Robot challenge. <br><br> <b>Analytical Proficiency: </b> Gained firsthand experience in applying analytical skills to overcome engineering challenges. <br><br> <b>Global Exposure: </b> Collaborated with highly gifted students from around the globe, elevating my teamwork skills and cultural awareness in a university atmosphere.
+# Project Overview
+AI Learning Compass addresses a critical challenge in technology education: making machine learning concepts accessible to diverse learners. By combining interactive knowledge graphs with AI-powered content generation, the platform creates an engaging and intuitive learning environment for exploring artificial intelligence concepts.
 
-<h6> Interpersonal Skills </h6>
-> Team Collaboration, Ideation & Brainstorming, Project Planning, Self-Sufficiency
+## Key Features
+- **Interactive Knowledge Graph**: Users can dynamically explore AI concepts through an intuitive visual interface, with the ability to zoom, reposition, and adjust node hierarchies
+- **GPT Integration**: Real-time generation of customized content including concept explanations, quizzes, and project ideas tailored to user expertise levels
+- **Adaptive Learning**: Content difficulty adjusts based on user feedback and interaction history
+- **Universal Knowledge Mapping**: Capability to generate knowledge graphs from custom text or URLs, extending functionality beyond AI education
+- **Community-Driven Content**: User rating system helps surface the most valuable explanations and resources
 
-<h6> Technical Skill Set </h6>
-> Practical Design & Analysis, Applied Engineering Concepts & Theories
+## Technical Implementation
+The project overcame several technical challenges:
+- Developed robust parsing systems for GPT API responses
+- Implemented seamless node interaction and graph navigation
+- Created optimized real-time graph updates while maintaining performance
+- Balanced static and dynamic content delivery
+- Built an intelligent feedback system for content improvement
+
+## Impact & Mission
+AI Learning Compass was born from a recognition of the AI diversity crisis, with studies showing significant underrepresentation in the field (only 18% women authors at leading AI conferences and less than 2.5% Black workforce at major tech companies). The platform aims to democratize AI education by:
+- Making complex concepts accessible to learners from all backgrounds
+- Providing personalized learning paths that adapt to individual needs
+- Creating an engaging, interactive environment that encourages exploration
+- Contributing to the development of more diverse and inclusive AI teams
+
+## Future Development
+Version 2.0 plans include:
+- Enhanced prompt engineering for more precise content generation
+- Improved text-to-knowledge-graph conversion algorithms
+- Advanced personalization features based on learning history
+- Offline access capabilities
+- Deeper integration of community feedback
+
+## Technologies Used
+- R Shiny for web application development
+- GPT APIs for dynamic content generation
+- Knowledge graph visualization libraries
+- Custom parsing and graph manipulation algorithms
+
+## Live Demo
+App available at: [https://anyac.shinyapps.io/compassAI/](https://anyac.shinyapps.io/compassAI/)
 
 ---
 
 
-<div class="gallery" data-columns="2">
-	<img src="/images/cty.JPG">
-	<img src="/images/cty-qual.JPG">
+<div class="gallery" data-columns="1">
+	<img src="/images/app.PNG">
 </div>
 
 
