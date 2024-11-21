@@ -117,7 +117,7 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 - **Varsity Tennis** - 2024, 2023, 2022
 - **MathCounts Mentor for Local Middle School** – 2024, 2023, 2022  
   Mentored middle school students in MathCounts, helping them build problem-solving skills and prepare for competitions.
-- **Club President, Adults Towards Independent Living** – 2024  
+- **Club President, Adults Towards Independent Living** – 2024, 2023  
   Led efforts to support adults with critical spinal injuries, promoting independent living and community support.
 - **Vice President, Science Communications Club** – 2024  
   Helped organize science outreach events for elementary students and coordinated guest speaker sessions for high schoolers
