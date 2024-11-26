@@ -3,7 +3,7 @@ title: 'Emerging Horizons in Coding: A Multifaceted Investigation into AI Code A
 subtitle: 'STEM-Away Virtual-Internship'
 date: 2023-02-30 00:00:00
 description: A comprehensive machine learning project focused on building a sophisticated recommender system for AI code assistant-related content. The system combines advanced NLP techniques with web scraping to deliver personalized article recommendations from Medium, laying the groundwork for a multi-platform content discovery tool.
-featured_image: '/images/byte.PNG'
+featured_image: '/images/byte.png'
 ---
 
 # Project Overview
