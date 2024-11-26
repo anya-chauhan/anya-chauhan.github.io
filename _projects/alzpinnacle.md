@@ -1,8 +1,8 @@
 ---
-title: Developing a GNN Model for Alzheimer’s Disease Research  
+title: ALZ-PINNACLE: A GNN Model for Alzheimer’s Disease Research  
 subtitle: Internship at Mass General Hospital/ Harvard Medical School
 date: 2024-07-01 09:00:00 -0400  
-description: Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tissue data within a unified latent space. Tasks included pre-training the model on extensive protein interaction data and investigating the role of APOE, a major genetic risk factor for Alzheimer’s.  
+description: Developed a model integrating protein, cell-type, and tissue data into a unified latent space for Alzheimer’s research. Pre-trained the model on extensive protein interaction data and investigated APOE, a key genetic risk factor for Alzheimer’s. Research to be presented at ML4H 2024.  
 featured_image: /images/Fig4.png
 ---
 
