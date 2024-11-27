@@ -5,6 +5,11 @@ date: 2024-07-01 09:00:00 -0400
 description: Developed a model integrating protein, cell-type, and tissue data into a unified latent space for Alzheimer’s research. Pre-trained the model on extensive protein interaction data and investigated APOE, a key genetic risk factor for Alzheimer’s. Research to be presented at ML4H 2024.  
 featured_image: /images/Fig4.png
 ---
+<br>
+<blockquote> 
+<p><em> Working on ALZ-PINNACLE at the MIND Data Science Lab was a transformative experience. The steep learning curve of mastering PyTorch Geometric and Alzheimer’s domain knowledge taught me how to adapt quickly, ask the right questions, and learn from incredible mentors. One of my key contributions was recognizing that restructuring the Alzheimer’s dataset to align with PINNACLE’s data structures could streamline analysis and minimize the need for extensive code modifications, ensuring the project's success.
+</blockquote>
+</em></p>
 
 <br> 
 <h2>Objective</h2> 
