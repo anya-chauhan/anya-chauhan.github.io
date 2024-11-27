@@ -44,46 +44,6 @@ As Project Management Lead and member of the Machine Learning subteam, I develop
 
 <br>  
 
-<h2>Technical Implementation</h2>  
-
-<strong>Data Collection & Processing</strong>  
-<blockquote> 
-<p style="color: #666;"> 
-- Built Python-based web scraper to gather article data, including titles, subtitles, summaries, and metadata. 
-</p> 
-<p style="color: #666;"> 
-- Implemented robust preprocessing pipeline with tokenization and advanced common word filtering. 
-</p> 
-<p style="color: #666;"> 
-- Developed adaptive threshold system for common word removal, refined from 30% to 10% occurrence. 
-</p> 
-</blockquote>  
-
-<strong>Recommendation Engine</strong>  
-<blockquote> 
-<p style="color: #666;"> 
-- Integrated dual embedding approaches: Word2Vec and BERT embeddings with cosine similarity and 
-</p>  
-<p style="color: #666;"> 
-- Implemented validation metrics: Vector magnitude calculation, Average similarity scoring, Highly similar article counting
-</p> 
-</blockquote>  
-
-<strong>Project Management</strong>  
-<blockquote> 
-<p style="color: #666;"> 
-- Set up a comprehensive Airtable-based tracking system. 
-</p> 
-<p style="color: #666;"> 
-- Developed a Softr site for team collaboration. 
-</p> 
-<p style="color: #666;"> 
-- Coordinated machine learning subteam efforts. 
-</p> 
-</blockquote>  
-
-<br>  
-
 <h2>Challenges Overcome</h2>  
 <blockquote> 
 <p style="color: #666;"> 
