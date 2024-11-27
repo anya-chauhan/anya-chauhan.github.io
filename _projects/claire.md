@@ -131,39 +131,6 @@ The success of this project inspired the creation of AI Learning Compass, which 
 </p> 
 </blockquote>  
 
-<br>  
-
-<h2>Technologies Used</h2>  
-<blockquote> 
-<p style="color: #666;"> 
-- R Shiny for web application. 
-</p> 
-<p style="color: #666;"> 
-- Python for additional implementation. 
-</p> 
-<p style="color: #666;"> 
-- Machine learning libraries. 
-</p> 
-<p style="color: #666;"> 
-- Data visualization tools. 
-</p> 
-<p style="color: #666;"> 
-- Cloud hosting platforms. 
-</p> 
-</blockquote>  
-
-<br>  
-
-<h2>Educational Impact</h2>  
-<blockquote> 
-<p style="color: #666;"> 
-The platform enables hands-on learning experiences, connecting theory with practice and empowering users to solve global challenges through data science. Its success in making complex concepts accessible continues to influence my mission of democratizing technology education.  
-</p> 
-</blockquote>  
-
-
-
-
 ---
 
 
