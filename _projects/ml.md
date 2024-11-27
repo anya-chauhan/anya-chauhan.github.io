@@ -6,66 +6,170 @@ description: A comprehensive machine learning project focused on building a soph
 featured_image: '/images/byte.png'
 ---
 
-# Project Overview
-As Project Management Lead and member of the Machine Learning subteam, I developed an intelligent recommendation system for AI code assistant-related content. The project combined web scraping, natural language processing, and recommendation algorithms to create a sophisticated content discovery tool, starting with Medium articles as our initial data source.
+<br>
 
-## Key Features
-- **Dual Recommendation Methods**: Implemented both Word2Vec and BERT embeddings with cosine similarity for comparative analysis
-- **Smart Data Collection**: Developed custom web scraping solutions for Medium articles
-- **Intelligent Preprocessing**: Created an aggressive common word removal system to enhance recommendation quality
-- **Validation Metrics**: Implemented computed columns for recommendation validation including vector magnitude and similarity scores
-- **Project Infrastructure**: Established Airtable-based project management system and Softr website
+<blockquote>
+  <p><em>This project marked my first experience working collaboratively in a team setting, where I took on the dual responsibilities of contributing to all technical aspects and stepping into a leadership role as the Project Management Lead. Balancing technical contributions with coordinating the machine learning subteam taught me the importance of clear communication, adaptability, and the value of diverse perspectives. It was a transformative experience that strengthened my ability to manage projects and contribute meaningfully to a shared vision.</em></p>
+</blockquote>
 
-## Technical Implementation
-### Data Collection & Processing
-- Built Python-based web scraper to gather article data including titles, subtitles, summaries, and metadata
-- Implemented robust preprocessing pipeline with tokenization and advanced common word filtering
-- Developed adaptive threshold system for common word removal (refined from 30% to 10% occurrence)
+<br>
 
-### Recommendation Engine
-- Integrated dual embedding approaches:
-  - Word2Vec embeddings with cosine similarity
-  - BERT embeddings with cosine similarity
-- Implemented validation metrics:
-  - Vector magnitude calculation
-  - Average similarity scoring
-  - Highly similar article counting
-  - Similarity matrix visualization
+<h2>Project Overview</h2>  
+<blockquote> 
+<p style="color: #666;"> 
+As Project Management Lead and member of the Machine Learning subteam, I developed an intelligent recommendation system for AI code assistant-related content. The project combined web scraping, natural language processing, and recommendation algorithms to create a sophisticated content discovery tool, starting with Medium articles as our initial data source. 
+</p> 
+</blockquote>  
 
-### Project Management
-- Set up comprehensive Airtable-based tracking system
-- Developed Softr site for team collaboration
-- Coordinated machine learning subteam efforts
+<br>  
 
-## Challenges Overcome
-- Adapted to dynamic website structure changes during scraping
-- Refined recommendation algorithms to reduce over-similarity in results
-- Balanced multiple project responsibilities while maintaining quality
-- Developed novel validation approaches for recommendation quality
+<h2>Key Features</h2>  
+<blockquote> 
+<p style="color: #666;"> 
+- <strong>Dual Recommendation Methods:</strong> Implemented both Word2Vec and BERT embeddings with cosine similarity for comparative analysis. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Smart Data Collection:</strong> Developed custom web scraping solutions for Medium articles. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Intelligent Preprocessing:</strong> Created an aggressive common word removal system to enhance recommendation quality. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Validation Metrics:</strong> Implemented computed columns for recommendation validation, including vector magnitude and similarity scores. 
+</p> 
+<p style="color: #666;"> 
+- <strong>Project Infrastructure:</strong> Established Airtable-based project management system and Softr website. 
+</p> 
+</blockquote>  
 
-## Results & Impact
-- Successfully created a robust recommendation system capable of suggesting relevant AI code assistant content
-- Established foundation for multi-platform content integration
-- Developed scalable infrastructure for future expansion
-- Created visualization tools for similarity analysis
+<br>  
 
-## Future Development
-The project lays groundwork for:
-- Integration with Tableau-based Dashboard
-- Chatbot implementation
-- Expansion to multiple content platforms
-- Enhanced user testing and feedback systems
+<h2>Technical Implementation</h2>  
 
-## Technologies Used
-- Python for web scraping and data processing
-- Word2Vec and BERT for text embeddings
-- Cosine similarity for recommendation generation
-- Airtable for project management
-- Softr for team collaboration
-- Visualization tools for similarity analysis
+<strong>Data Collection & Processing</strong>  
+<blockquote> 
+<p style="color: #666;"> 
+- Built Python-based web scraper to gather article data, including titles, subtitles, summaries, and metadata. 
+</p> 
+<p style="color: #666;"> 
+- Implemented robust preprocessing pipeline with tokenization and advanced common word filtering. 
+</p> 
+<p style="color: #666;"> 
+- Developed adaptive threshold system for common word removal, refined from 30% to 10% occurrence. 
+</p> 
+</blockquote>  
 
-## Code Repository
-- Web Scraper: [GitHub - Medium Articles Scraper](https://github.com/anya-chauhan/bytemasters/blob/main/medium_articles_scraper.py)
-- Recommender System: [GitHub - Recommender Notebook](https://github.com/anya-chauhan/bytemasters/blob/main/recommender.ipynb)
+<strong>Recommendation Engine</strong>  
+<blockquote> 
+<p style="color: #666;"> 
+- Integrated dual embedding approaches: 
+</p> 
+<p style="color: #666;"> 
+  - Word2Vec embeddings with cosine similarity. 
+</p> 
+<p style="color: #666;"> 
+  - BERT embeddings with cosine similarity. 
+</p> 
+<p style="color: #666;"> 
+- Implemented validation metrics: 
+</p> 
+<p style="color: #666;"> 
+  - Vector magnitude calculation. 
+</p> 
+<p style="color: #666;"> 
+  - Average similarity scoring. 
+</p> 
+<p style="color: #666;"> 
+  - Highly similar article counting. 
+</p> 
+<p style="color: #666;"> 
+  - Similarity matrix visualization. 
+</p> 
+</blockquote>  
 
+<strong>Project Management</strong>  
+<blockquote> 
+<p style="color: #666;"> 
+- Set up a comprehensive Airtable-based tracking system. 
+</p> 
+<p style="color: #666;"> 
+- Developed a Softr site for team collaboration. 
+</p> 
+<p style="color: #666;"> 
+- Coordinated machine learning subteam efforts. 
+</p> 
+</blockquote>  
 
+<br>  
+
+<h2>Challenges Overcome</h2>  
+<blockquote> 
+<p style="color: #666;"> 
+- Adapted to dynamic website structure changes during scraping. 
+</p> 
+<p style="color: #666;"> 
+- Refined recommendation algorithms to reduce over-similarity in results. 
+</p> 
+<p style="color: #666;"> 
+- Balanced multiple project responsibilities while maintaining quality. 
+</p> 
+<p style="color: #666;"> 
+- Developed novel validation approaches for recommendation quality. 
+</p> 
+</blockquote>  
+
+<br>  
+
+<h2>Results & Impact</h2>  
+<blockquote> 
+<p style="color: #666;"> 
+- Successfully created a robust recommendation system capable of suggesting relevant AI code assistant content. 
+</p> 
+<p style="color: #666;"> 
+- Established a foundation for multi-platform content integration. 
+</p> 
+<p style="color: #666;"> 
+- Developed scalable infrastructure for future expansion. 
+</p> 
+<p style="color: #666;"> 
+- Created visualization tools for similarity analysis. 
+</p> 
+</blockquote>  
+
+<br>  
+
+<h2>Technologies Used</h2>  
+<blockquote> 
+<p style="color: #666;"> 
+- Python for web scraping and data processing. 
+</p> 
+<p style="color: #666;"> 
+- Word2Vec and BERT for text embeddings. 
+</p> 
+<p style="color: #666;"> 
+- Cosine similarity for recommendation generation. 
+</p> 
+<p style="color: #666;"> 
+- Airtable for project management. 
+</p> 
+<p style="color: #666;"> 
+- Softr for team collaboration. 
+</p> 
+<p style="color: #666;"> 
+- Visualization tools for similarity analysis. 
+</p> 
+</blockquote>  
+
+<br>  
+
+<h2>Code Repository</h2>  
+<blockquote> 
+<p style="color: #666;"> 
+- Web Scraper: <a href="https://github.com/anya-chauhan/bytemasters/blob/main/medium_articles_scraper.py" target="_blank">GitHub - Medium Articles Scraper</a>. 
+</p> 
+<p style="color: #666;"> 
+- Recommender System: <a href="https://github.com/anya-chauhan/bytemasters/blob/main/recommender.ipynb" target="_blank">GitHub - Recommender Notebook</a>. 
+</p> 
+</blockquote>  
+
+<br>  
