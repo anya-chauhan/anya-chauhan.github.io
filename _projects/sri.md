@@ -9,7 +9,7 @@ featured_image: /images/sri_1.png
 
 <br>
 <blockquote>
-<p><em> In this project, I ventured into the realm of healthcare, focusing on the integration of AI with medical applications. This phase was more than a technical milestone; it was my first opportunity to witness AI addressing real-world medical challenges. Under the mentorship of an exceptional guide, I delved into the complexities of AI in healthcare, uncovering new dimensions of the field. This experience taught me that increased complexity doesn't always equate to improvement, highlighted how metrics can sometimes be misleading, and showed the importance of tools like Grad-CAM for interpreting model outputs. This project paved the way for my inaugural major research study, titled "Recruiting Digital Patients: The Effectiveness of Training Models on AI-Generated Cardiac MRI Data," with the abstract published in The Young Researcher. </em></p>
+<p><em> In this project, I ventured into the realm of healthcare, focusing on the integration of AI with medical applications. This phase was more than a technical milestone; it was my first opportunity to witness AI addressing real-world medical challenges. Under the mentorship of an exceptional guide, I delved into the complexities of AI in healthcare, uncovering new dimensions of the field. This experience taught me that increased complexity doesn't always equate to improvement, highlighted how metrics can sometimes be misleading, and showed the importance of tools like Grad-CAM for interpreting model outputs. </em></p>
 </blockquote>
 
 <br>
