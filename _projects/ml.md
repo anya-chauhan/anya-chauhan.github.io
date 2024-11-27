@@ -62,28 +62,10 @@ As Project Management Lead and member of the Machine Learning subteam, I develop
 <strong>Recommendation Engine</strong>  
 <blockquote> 
 <p style="color: #666;"> 
-- Integrated dual embedding approaches: 
-</p> 
+- Integrated dual embedding approaches: Word2Vec and BERT embeddings with cosine similarity and 
+</p>  
 <p style="color: #666;"> 
-  - Word2Vec embeddings with cosine similarity. 
-</p> 
-<p style="color: #666;"> 
-  - BERT embeddings with cosine similarity. 
-</p> 
-<p style="color: #666;"> 
-- Implemented validation metrics: 
-</p> 
-<p style="color: #666;"> 
-  - Vector magnitude calculation. 
-</p> 
-<p style="color: #666;"> 
-  - Average similarity scoring. 
-</p> 
-<p style="color: #666;"> 
-  - Highly similar article counting. 
-</p> 
-<p style="color: #666;"> 
-  - Similarity matrix visualization. 
+- Implemented validation metrics: Vector magnitude calculation, Average similarity scoring, Highly similar article counting
 </p> 
 </blockquote>  
 
