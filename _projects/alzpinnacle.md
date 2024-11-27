@@ -7,9 +7,9 @@ featured_image: /images/Fig4.png
 ---
 <br>
 <blockquote> 
-<p><em> Working on ALZ-PINNACLE at the MIND Data Science Lab was a transformative experience. The steep learning curve of mastering PyTorch Geometric and Alzheimer’s domain knowledge taught me how to adapt quickly, ask the right questions, and learn from incredible mentors. One of my key contributions was recognizing that restructuring the Alzheimer’s dataset to align with PINNACLE’s data structures could streamline analysis and minimize the need for extensive code modifications, ensuring the project's success.
+<p><em> Working on ALZ-PINNACLE at the MIND Data Science Lab was a transformative experience. The steep learning curve of mastering PyTorch Geometric and Alzheimer’s domain knowledge taught me how to adapt quickly, ask the right questions, and learn from incredible mentors. One of my key contributions was recognizing that restructuring the Alzheimer’s dataset to align with PINNACLE’s data structures could streamline analysis and minimize the need for extensive code modifications, ensuring the project's success. </em></p>
 </blockquote>
-</em></p>
+
 
 <br> 
 <h2>Objective</h2> 
