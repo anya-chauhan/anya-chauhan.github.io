@@ -9,6 +9,10 @@ featured_image: /images/sri_1.png
 
 <br>
 
+<p><em> I ventured into the realm of healthcare, focusing on the integration of artificial intelligence with medical applications. This phase was more than a technical milestone; it was my first opportunity to witness AI addressing real-world medical challenges. Under the mentorship of an exceptional guide at the Student Research Institute (SRI), I delved into the complexities of AI in healthcare, uncovering new dimensions of the field. This experience taught me that increased complexity doesn't always equate to improvement, highlighted how metrics can sometimes be misleading, and underscored the importance of tools like Grad-CAM for interpreting model outputs. This project paved the way for my inaugural major research study, titled "Recruiting Digital Patients: The Effectiveness of Training Models on AI-Generated Cardiac MRI Data," with the abstract published in The Young Researcher. In this study, I explored the potential of synthetic data in training AI models for medical applications, aiming to advance medical AI while safeguarding patient privacy.</em></p>
+
+<br>
+
 <h2>Objective</h2> 
 <blockquote> 
 <p style="color: #666;"> Investigated whether an AI model, trained exclusively on AI-generated (synthetic) cardiac MRI images, could accurately predict clinical metrics—specifically the left ventricular sphericity index—on real patient data. This research addresses critical challenges related to data privacy and accessibility in medical AI development by utilizing synthetic data to maintain patient confidentiality while still achieving clinically relevant outcomes. 
