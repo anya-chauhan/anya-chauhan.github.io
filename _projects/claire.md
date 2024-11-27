@@ -10,7 +10,8 @@ featured_image: '/images/claire2.PNG'
  
 <blockquote> 
 <p style="color: #666;"><em>
-clAIre was a deeply personal project that combined my passion for technology with a commitment to education. This project gave me the opportunity to reimagine how global challenges like climate change could be transformed into accessible and engaging data science lessons. It was through building clAIre and its pilot module, ClimateDuo, that I realized the potential of combining real-world issues with hands-on technological learning. The insights and lessons from clAIre directly inspired the creation of my next project, AI Learning Compass, which expands this mission to make AI education accessible to diverse learners. </blockquote>   
+clAIre was a deeply personal project that combined my passion for technology with a commitment to education. This project gave me the opportunity to reimagine how global challenges like climate change could be transformed into accessible and engaging data science lessons. It was through building clAIre and its pilot module, ClimateDuo, that I realized the potential of combining real-world issues with hands-on technological learning. The insights and lessons from clAIre directly inspired the creation of my next project, AI Learning Compass, which expands this mission to make AI education accessible to diverse learners. 
+</blockquote>   
 </p></em>
 
 
