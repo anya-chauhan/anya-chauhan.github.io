@@ -3,7 +3,7 @@ title: 'clAIre: Bridging Global Issues and Technology Through Interactive Learni
 subtitle: 'AFS Global STEM Accelerator/ Unniversity of Pennsylvania'
 date: 2018-05-30 00:00:00
 description: clAIre is an educational platform that transforms complex data science and machine learning concepts into accessible, interactive learning experiences. Through its pilot module ClimateDuo, users explore climate change data while learning practical coding and analysis skills in R and Python.
-featured_image: '/images/claire1.PNG'
+featured_image: '/images/claire2.PNG'
 ---
 
 # Project Overview
