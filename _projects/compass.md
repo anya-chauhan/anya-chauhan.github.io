@@ -2,7 +2,7 @@
 title: 'AI Learning Compass: Democratizing AI Education with Interactive Graphs'
 subtitle: 'Independent Project'
 date: 2024-06-30 00:00:00
-description: AI Learning Compass combines dynamic knowledge graphs with GPT-powered content generation to visualize complex AI topics through an interactive map while providing real-time, customized content based on user interests and expertise levels.
+description: AI Learning Compass combines dynamic knowledge graphs with GPT-powered content generation to visualize complex AI topics through an interactive map while providing real-time, customized content based on user interests and expertise levels. Earned Honorable Mention at the 2024 Congressional App Challenge in the highly competitive 16th Congressional District of California.
 featured_image: '/images/app.PNG'
 ---
 <br>
