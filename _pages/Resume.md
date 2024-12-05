@@ -94,18 +94,19 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 ## 🏆 **Achievements**
 
 ### 2024
-- **Captain of Varsity Tennis Team**
-- **International Research Olympiad** – Semi-Finalist
-- **NCWIT Aspirations in Computing Award** – Bay Area Honorable Mention
+- **Congressional App Challenge: Honorable Mention** - 16th Congressional District of California
+- **Captain Varsity Tennis Team** - Los Gatos High School
+- **International Research Olympiad: Semi-Finalist** - Global Competition
+- **NCWIT Aspirations in Computing Award: Honorable Mention** – Bay Area Chapter
 
 ### 2023
-- **AFS Global STEM Accelerator Achievement**
+- **Global STEM Accelerator Achievement** - AFS.org and University of Pennsylvania
 - **National Cyber Scholar** – CyberStart America
-- **STEM-Away Leadership Award**
-- **Santa Clara Valley Athletic League All-League Award**
+- **Leadership Award** - STEM-Away 
+- **All-League Player Award** - Santa Clara Valley Athletic League
 
 ### 2021
-- **Mathematics Department Award**
+- **Mathematics Department Award** - Fisher School
 
 
 ---
