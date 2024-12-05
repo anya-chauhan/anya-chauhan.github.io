@@ -2,7 +2,7 @@
 title: 'ALZ-PINNACLE: A GNN Model for Alzheimer’s Disease Research'  
 subtitle: 'Internship at Mass General Hospital/ Harvard Medical School'
 date: 2024-07-01 09:00:00 -0400  
-description: Developed a model integrating protein, cell-type, and tissue data into a unified latent space for Alzheimer’s research. Pre-trained the model on extensive protein interaction data and investigated APOE, a key genetic risk factor for Alzheimer’s. Research to be presented at ML4H 2024.  
+description: Developed a model integrating protein, cell-type, and tissue data into a unified latent space for Alzheimer’s research. Pre-trained the model on extensive protein interaction data and investigated APOE, a key genetic risk factor for Alzheimer’s. Research to be presented at ML4H 2024, a prestigious symposium that highlights cutting-edge developments in applying machine learning to healthcare challenges.  
 featured_image: /images/Fig4.png
 ---
 <br>
