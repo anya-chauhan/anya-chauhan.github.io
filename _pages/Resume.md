@@ -103,8 +103,11 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 - **Global STEM Accelerator Achievement** - AFS.org and University of Pennsylvania
 - **National Cyber Scholar** – CyberStart America
 - **Leadership Award** - STEM-Away 
-- **All-League Player Award** - Santa Clara Valley Athletic League
+- **Varsity Tennis All-League Player Award** - Santa Clara Valley Athletic League
 
+### 2021
+- **Varsity Tennis League Champions** - Santa Clara Valley Athletic League
+  
 ### 2021
 - **Mathematics Department Award** - Fisher School
 
@@ -115,13 +118,15 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 
 ## 🤝 **Volunteering / Extracurriculars**
 
-- **Varsity Tennis** - 2024, 2023, 2022
+- **Starting Varsity Tennis Player** - 2024, 2023, 2022
 - **MathCounts Mentor for Local Middle School** – 2024, 2023, 2022  
   Mentored middle school students in MathCounts, helping them build problem-solving skills and prepare for competitions.
 - **Club President, Adults Towards Independent Living** – 2024, 2023  
   Led efforts to support adults with critical spinal injuries, promoting independent living and community support.
-- **Vice President, Science Communications Club** – 2024  
-  Helped organize science outreach events for elementary students and coordinated guest speaker sessions for high schoolers
+- **Yearbook Staff Member** - 2024,2023
 - **Mock Trial** - 2024
   Prosecution pre-trial attorney. 
+- **Vice President, Science Communications Club** – 2024  
+  Helped organize science outreach events for elementary students and coordinated guest speaker sessions for high schoolers.
+
 
