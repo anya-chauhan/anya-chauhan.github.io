@@ -57,7 +57,7 @@ featured_image: /images/resume3.jpg
 
 ## 🛠️ Projects & Internships
 
-### Intern, Harvard Medical School / Mass General Hospital
+### Intern, Mass General Hospital/ Harvard Medical School
 **Duration:** June 2024 - Present (Summer Stipend for 3 Months)  
 Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tissue data within a unified latent space. Tasks included pre-training the model on extensive protein interaction data and investigating the role of APOE, a major genetic risk factor for Alzheimer’s.
 
@@ -69,7 +69,7 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 
 <br>
 
-### Student Researcher, Harvard Medical School / Mass General Hospital
+### Student Researcher, Mass General Hospital/ Harvard Medical School 
 **Duration:** February 2024 - June 2024
 <br>Developed an R Shiny app for interactive visualization of an Alzheimer’s knowledge graph.
 
@@ -105,7 +105,7 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 - **Leadership Award** - STEM-Away 
 - **Varsity Tennis All-League Player Award** - Santa Clara Valley Athletic League
 
-### 2021
+### 2022
 - **Varsity Tennis League Champions** - Santa Clara Valley Athletic League
   
 ### 2021
