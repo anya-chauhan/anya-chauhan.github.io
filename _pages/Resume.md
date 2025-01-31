@@ -95,6 +95,7 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 
 ### 2025
 - **NCWIT Aspirations in Computing Award: National Honorable Mention** – National
+  (https://www.aspirations.org/news/award-programs/ncwit-announces-2025-national-aic-high-school-award-recipients)
   
 ### 2024
 - **Congressional App Challenge: Honorable Mention** - 16th Congressional District of California
