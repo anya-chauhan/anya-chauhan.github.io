@@ -93,10 +93,12 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 
 ## 🏆 **Achievements**
 
+### 2025
+- **NCWIT Aspirations in Computing Award: National Honorable Mention** – National
+  
 ### 2024
 - **Congressional App Challenge: Honorable Mention** - 16th Congressional District of California
 - **Captain Varsity Tennis Team** - Los Gatos High School
-- **International Research Olympiad: Semi-Finalist** - Global Competition
 - **NCWIT Aspirations in Computing Award: Honorable Mention** – Bay Area Chapter
 
 ### 2023
