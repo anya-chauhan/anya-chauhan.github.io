@@ -96,11 +96,13 @@ Working on ALZ-PINNACLE, a GNN model that integrates protein, cell-type, and tis
 ### 2025
 - **NCWIT Aspirations in Computing Award: National Honorable Mention** – 
   https://www.aspirations.org/news/award-programs/ncwit-announces-2025-national-aic-high-school-award-recipients
+- **NCWIT Aspirations in Computing Award: Winner** – San Francisco Bay Area Chapter
+
   
 ### 2024
 - **Congressional App Challenge: Honorable Mention** - 16th Congressional District of California
 - **Captain Varsity Tennis Team** - Los Gatos High School
-- **NCWIT Aspirations in Computing Award: Honorable Mention** – Bay Area Chapter
+- **NCWIT Aspirations in Computing Award: Honorable Mention** – San Francisco Bay Area Chapter
 
 ### 2023
 - **Global STEM Accelerator Achievement** - AFS.org and University of Pennsylvania
